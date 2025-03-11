@@ -1,4 +1,4 @@
-# Bigdata_analysis (25-1)
+# Bigdata_Analysis (25-1)
 ## 웹에서 Jupyter NoteBook실행하기
 1. <code>pip install notebook</code> // jupyer노트북 install
 2. <code>jupyter notebook</code> // 실행
